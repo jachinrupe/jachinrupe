@@ -5,10 +5,11 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/jachinrupe/osticket-prereqs#osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/jachinrupe/post-install-config-osticket)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/jachinrupe/osTicket-Ticket-Lifecycle-Examples)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jachinrupe/Configure-AD) 
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jachinrupe/Azure-Network-Protocols/blob/main)
+  - [Resetting Passwords and Unlocking Accounts](https://github.com/jachinrupe/Resetting-Passwords-and-Unlocking-accounts/tree/main)
 
 <h2>🤳Connect with me:</h2>
 
