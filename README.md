@@ -6,8 +6,9 @@
   - [osTicket: Prerequisites and Installation](https://github.com/jachinrupe/osticket-prereqs#osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/jachinrupe/post-install-config-osticket)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/jachinrupe/osTicket-Ticket-Lifecycle-Examples)
--<b>Packet Tracer Projects </b>
+- <b>Packet Tracer Projects </b>
   - [Configure VoIP on Packet Tracer:](https://github.com/jachinrupe/Configuring-VoIP-on-Packet-Tracer)
+  - [Full Stack Networking Associate Project done through NGT Academy](https://github.com/jachinrupe/Full-Stack-Network-Associate-project)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jachinrupe/Configure-AD) 
 
