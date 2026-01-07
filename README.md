@@ -6,6 +6,7 @@
   - [osTicket: Prerequisites and Installation](https://github.com/jachinrupe/osticket-prereqs#osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/jachinrupe/post-install-config-osticket)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/jachinrupe/osTicket-Ticket-Lifecycle-Examples)
+  - [Configure VoIP on Packet Tracer:](https://github.com/jachinrupe/Configuring-VoIP-on-Packet-Tracer)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jachinrupe/Configure-AD) 
 
