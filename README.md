@@ -10,7 +10,9 @@
   - [Configure VoIP on Packet Tracer:](https://github.com/jachinrupe/Configuring-VoIP-on-Packet-Tracer)
   - [Full Stack Networking Associate Project done through NGT Academy](https://github.com/jachinrupe/Full-Stack-Network-Associate-project)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jachinrupe/Configure-AD) 
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jachinrupe/Configure-AD)
+ -<b>Linux Project</b>
+ - [LAMP Server Install on AWS Virtual Machine](https://github.com/jachinrupe/LAMP-Stack) 
 
 <h2>🤳Connect with me:</h2>
 
