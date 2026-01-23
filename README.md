@@ -11,8 +11,10 @@
   - [Full Stack Networking Associate Project done through NGT Academy](https://github.com/jachinrupe/Full-Stack-Network-Associate-project)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jachinrupe/Configure-AD)
- - <b> (Linux Project)</b>
- - [LAMP Server Install on AWS Virtual Machine](https://github.com/jachinrupe/LAMP-Stack) 
+ - <b> Linux Project</b>
+ - [LAMP Server Install on AWS Virtual Machine](https://github.com/jachinrupe/LAMP-Stack)
+- <b>MPLS lab using GNS3</b>
+  -[Router Configuration using Cisco 7200 image on GNS3 emulator](https://github.com/jachinrupe/MPLS-lab)
 
 <h2>🤳Connect with me:</h2>
 
