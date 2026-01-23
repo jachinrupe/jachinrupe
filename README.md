@@ -14,7 +14,7 @@
  - <b> Linux Project</b>
  - [LAMP Server Install on AWS Virtual Machine](https://github.com/jachinrupe/LAMP-Stack)
 - <b>MPLS lab using GNS3</b>
-  -[Router Configuration using Cisco 7200 image on GNS3 emulator](https://github.com/jachinrupe/MPLS-lab)
+  - [Router Configuration using Cisco 7200 image on GNS3 emulator](https://github.com/jachinrupe/MPLS-lab)
 
 <h2>🤳Connect with me:</h2>
 
